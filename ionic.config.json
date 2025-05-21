@@ -1,0 +1,7 @@
+{
+  "name": "geoLinkApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
